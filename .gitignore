@@ -1,0 +1,89 @@
+# .NET Core
+bin/
+obj/
+out/
+
+# 不要忽略这些文件和目录
+!wwwroot/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# Rider
+.idea/
+
+# Visual Studio
+.vs/
+*.csproj.user
+*.userprefs
+
+# NuGet
+packages/
+*.nupkg
+*.nuspec
+
+# Windows image file caches
+Thumbs.db
+
+# OSX
+.DS_Store
+
+# Node (for Vue.js projects)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Tooling
+_ReSharper*/
+_TeamCity*
+
+# JetBrains Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Others
+*.swp
+*.*~
+
+# Vue.js - if you're using a frontend framework
+/dist/
+
+# Environment variables
+.env
+
