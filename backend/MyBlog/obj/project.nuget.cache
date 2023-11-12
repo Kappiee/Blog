@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "YBTwVd+WavimvBAQcpW8ouvC3cM1ZzeoVoUAZkOdYGvk9GaWSfAqmLoo4I0svz9I1j0vQRheVukgjUGOLKiIDw==",
+  "dgSpecHash": "TC7+W61RJJ3E1HBSYvft2MiKTOM2lj3l00c4Oc2r5DOLjyvzn3TvQZNMOjig3soy1RI9bwh5OBsYGVhbC0A90A==",
   "success": true,
   "projectFilePath": "/Users/kappie/Documents/project/Blog_Dev/backend/MyBlog/MyBlog.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/kappie/.nuget/packages/dapper/2.1.21/dapper.2.1.21.nupkg.sha512"
+  ],
   "logs": []
 }
